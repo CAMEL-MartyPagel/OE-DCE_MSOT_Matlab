@@ -13,7 +13,7 @@ The code analyzes both OE and DCE MSOT Data acquired on iThera Invision and reco
 [Download v1.0 zip for Matlab 2022b](https://github.com/CAMEL-MartyPagel/OE-DCE_MSOT_Matlab/releases/download/v1.0/OE-DCE_MSOT_M2022b.zip)
 
 ## **EXAMPLE DATA**
-[Find Example Data and Output are here](https://github.com/CAMEL-MartyPagel/OE-DCE_MSOT_Example)
+[Find Example Data and Output here](https://github.com/CAMEL-MartyPagel/OE-DCE_MSOT_Example)
 
 ## **MANUAL**
 [Download here](https://github.com/CAMEL-MartyPagel/OE-DCE_MSOT_Matlab/raw/main/doc/SOP_MSOT_Code_20221130.docx)
